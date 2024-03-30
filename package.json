@@ -1,0 +1,42 @@
+{
+  "name": "rationeeveniet",
+  "version": "1.0.0",
+  "description": "eslint config ready to be used in multiple projects",
+  "keywords": [
+    "eslint",
+    "dolores",
+    "prettier",
+    "molestias"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "prettier.js",
+    "prettier.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeoffreyBreitenberg/rationeeveniet.git"
+  },
+  "author": "LilianaNolan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeoffreyBreitenberg/rationeeveniet.git/issues"
+  },
+  "peerDependencies": {
+    "eslint": "^5.13.0",
+    "prettier": "^1.16.4"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jest": "^22.2.2",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.16.4"
+  }
+}
